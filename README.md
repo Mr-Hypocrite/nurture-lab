@@ -1,10 +1,10 @@
 # Next.js + Tailwind CSS Front-End Project
 
 ## Preview
-Nurture-Lab(https://nurture-lab.vercel.app/):
+Web Site Live On: [Nurture-Lab](https://nurture-lab.vercel.app/)
 
 ## Built Using
 
--Next.js
--TypeScript
--TailWindCSS
+* Next.js
+* TypeScript
+* TailWindCSS
